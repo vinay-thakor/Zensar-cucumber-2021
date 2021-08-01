@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class LoadProperty {
+    //pr
 
     //projectPath
     String projectPath = System.getProperty("user.dir");
